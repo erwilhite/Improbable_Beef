@@ -1,0 +1,9 @@
+body {
+    color: black;
+}
+
+.jumbotron {
+    background-image: url("../images/hamburger.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
